@@ -27,7 +27,7 @@ I am a Machine Learning Associate <img src="https://media.giphy.com/media/WUlplc
 
 💻 Currently working at Onward Assist where I develop codes for cancer diagnosis on WSIs.
 
-💬 Seek answers to your questions about: Biomedical image segmentation, Time series analysis, Biomedical signal processing, and Audio signal Processing.
+💬 Seek answers to your questions about: Biomedical image segmentation, Time series analysis, Biomedical signal processing, and Music emotion retrieval.
 
 :seedling: Exploring recent advancements in: GCNNs, GTNs, GANs, and Diffusion Models.
 
