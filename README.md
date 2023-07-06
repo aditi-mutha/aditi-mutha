@@ -3,14 +3,12 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/aditi-mutha10/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
   <a href="https://www.kaggle.com/aditimutha10">
     <img src="https://img.shields.io/badge/Kaggle-Novice-white" alt="Kaggle Badge" width="130"/>
   </a>
-  
+  <a href="https://www.coursera.org/user/294f4e21806be65b874c6e1f2f3fef9a">
+    <img src="https://img.shields.io/badge/Coursera-Aditi-blue" alt="Kaggle Badge" width="130"/>
+  </a>
 </div>
 
 
@@ -35,7 +33,7 @@ I am a Machine Learning Associate from India <img src="https://media.giphy.com/m
 
 ---
 
-### 📫 Reach me at :   
+### 📫 Reach out to me at :   
 [![Linkedin Badge](https://img.shields.io/badge/-Aditi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-mutha10/)
 
 ---
