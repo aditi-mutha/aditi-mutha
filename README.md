@@ -44,37 +44,58 @@ I am a Machine Learning Associate from India <img src="https://media.giphy.com/m
   <a href="https://anaconda.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>
   </a>
-  <a href="https://anaconda.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40"/>
+  <a href="https://albumentations.ai/">
+    <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" title="Albumentations" alt="Albumentations" width="40" height="40"/>
   </a>
-  <a href="https://anaconda.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   </a>
-  <a href="https://anaconda.org/">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+</a>
+  <a href="https://jupyter.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Lab" alt="Jupyter Lab" width="40" height="40"/>
   </a>
-  <a href="https://anaconda.org/">
+  <a href="https://librosa.org/doc/latest/index.html">
+    <img src="https://librosa.org/doc/latest/_static/librosa_logo_text.svg" title="Librosa" alt="Librosa" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" title="Linux" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>
   </a>
-  <a href="https://anaconda.org/">
+  <a href="https://opencv.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
   </a>
-  <a href="https://anaconda.org/">
+  <a href="https://pandas.pydata.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
   </a>
-  <a href="https://anaconda.org/">
+  <a href="https://pillow.readthedocs.io/en/stable/">
+    <img src="https://raw.githubusercontent.com/python-pillow/pillow-logo/main/pillow-logo-248x250.png" title="Pillow" alt="Pillow" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://anaconda.org/">
+  <a href="https://pytorch.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>
   </a>
-  <a href="https://anaconda.org/">
+  <a href="https://scikit-learn.org/stable/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit Learn" alt="Scikit Learn" width="40" height="40"/>
+  </a>
+  <a href="https://segmentation-modelspytorch.readthedocs.io/en/latest/">
+    <img src="https://camo.githubusercontent.com/88abf70c26a0eda1d22062e84053f8c72883623cb38b523c1e447a6a6930b4c5/68747470733a2f2f692e6962622e636f2f646331586468542f5365676d656e746174696f6e2d4d6f64656c732d56322d536964652d312d312e706e67" title="Segmentation models pytorch" alt="Segmentation models pytorch" width="100" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/">
+    <img src="https://w7.pngwing.com/pngs/138/659/png-transparent-tableau-software-hd-logo.png" title="Tableau" alt="Tableau" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
   </a>
-  <a href="https://anaconda.org/">
+  <a href="https://ubuntu.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
   </a>
-</div>
+</div>  
 
 ---
 
