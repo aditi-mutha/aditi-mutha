@@ -8,7 +8,7 @@
   </a>
 
   <a href="https://www.kaggle.com/aditimutha10">
-    <img src="https://img.shields.io/badge/Kaggle-Novice-white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-Novice-white" alt="Kaggle Badge" width="130"/>
   </a>
   
 </div>
