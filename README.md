@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.kaggle.com/aditimutha10">
-    <img src="https://img.shields.io/badge/Kaggle-Novice-white" alt="Kaggle Badge" width="130"/>
+    <img src="https://img.shields.io/badge/Kaggle-Contributor-white" alt="Kaggle Badge" width="160"/>
   </a>
   <a href="https://www.coursera.org/user/294f4e21806be65b874c6e1f2f3fef9a">
     <img src="https://img.shields.io/badge/Coursera-Aditi-blue" alt="Kaggle Badge" width="130"/>
